@@ -1,5 +1,7 @@
 **Monsters-Rolodex**
 
+_About:_ A small basic React app using 3rd party API's for placeholder data and images.
+
 _Built with:_
 
 - React
